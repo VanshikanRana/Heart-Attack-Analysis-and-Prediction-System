@@ -1,7 +1,7 @@
-# ❤️ Heart Attack Analysis and Prediction System
+# ❤️ Heart Attack Risk Analysis and Prediction System
 
 ## Project Overview
-I’m excited to share my latest project, the **Heart Attack Analysis and Prediction System**! This independent endeavor leverages Python 🐍 to analyze heart disease data and predict the most suitable treatment types. The goal is to provide valuable insights for personalized treatment planning and enhance decision-making in healthcare.
+I’m excited to share my latest project, the **Heart Attack Risk Analysis and Prediction System**! This independent endeavor leverages Python 🐍 to analyze heart disease data and predict the most suitable treatment types. The goal is to provide valuable insights for personalized treatment planning and enhance decision-making in healthcare.
 
 ## Objectives
 - **Data Analysis:** Conduct a thorough analysis of heart disease data to identify key factors influencing heart attacks.
